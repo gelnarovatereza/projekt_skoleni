@@ -16,3 +16,5 @@ usethis::git_sitrep()
 gh::gh_whoami()
 
 usethis::use_github()
+
+# tohle je úplně jiná realita

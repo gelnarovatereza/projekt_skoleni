@@ -1,0 +1,1 @@
+#tohle je paralelni realita
