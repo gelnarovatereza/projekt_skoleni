@@ -19,6 +19,7 @@ usethis::use_github()
 
 # tohle je úplně jiná realita
 
+#upravuju znova
 
 # pokus o merge
 
