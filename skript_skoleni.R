@@ -18,3 +18,7 @@ gh::gh_whoami()
 usethis::use_github()
 
 # tohle je úplně jiná realita
+
+
+# pokus o merge
+
